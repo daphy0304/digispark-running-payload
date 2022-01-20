@@ -4,8 +4,8 @@ Downloads an external execution file on the victim's computer with maintaining p
 
 Turn off all protect system (security bypass).
 
-Download exe file from specific URL.
+Download payload file from specific URL.
 
-Run downloaded exe file.
+Run downloaded payload file.
 
 Exit powershell.
